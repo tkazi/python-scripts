@@ -1,5 +1,5 @@
-
-## connects to hive to pull a summary dashboard and then connects to salesforce to update the mapped records/accounts
+## Salesforce integration with Hadoop
+## connects to hive to get aggregate data across accounts, and then connects to salesforce to push data into salesforce
 
 
 import csv
