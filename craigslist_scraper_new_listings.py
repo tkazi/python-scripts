@@ -1,8 +1,8 @@
+## scrapes craigslist for new listings within a time period and other filter criteria. Any new listing found is emailed to the recipient.
+
+
+
 #! /usr/local/bin/python
-
-## scrapes craigslist for new listings within the hour or within 2-3 hours. only new listings are then emailed to the recipient.
-## the script can be automated to be run every hour for new listings
-
 
 ## to receive an email, enter email and password for your gmail account
 gmail_user = 'johndoe@gmail.com'
