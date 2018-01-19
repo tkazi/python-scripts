@@ -1,5 +1,4 @@
-## natural language processing to determine if a list of statements are questions and then separate questions or statements where users are looking for something
-
+## identify if a user is asking a question or looking for help in comments data (social netowring platform)
 
 import os
 import csv
