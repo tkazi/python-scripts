@@ -1,4 +1,4 @@
-# from a list of districts provided, automate google search and download related documents
+# Automating a google search for documents on school district tech plans. Documents to be used downstream for Natural Language Processing
 
 import urllib
 import mechanize
