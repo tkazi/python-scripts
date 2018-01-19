@@ -1,4 +1,4 @@
-# connects ot mysql to pull a report for a list of schools provided, and then sends an email to each school with the report
+# pull data from MySQL and send an email to account owner with respective reports
 
 import mysql.connector
 import csv
